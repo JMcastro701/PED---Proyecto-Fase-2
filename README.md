@@ -19,3 +19,7 @@ El proyecto está realizado por medio de Windows Forms con C#, y con una base de
     Asegurarse de configurar los permisos necesarios para la ejecución o de desahbilitar opciones de antivirus que interfieran con esta
     Presionar tecla F5 o el botón 'Iniciar'
 
+##Para ejecutar sin abrir Visual Studio
+
+Abrir la carpeta Acceso Directo, donde se podrá acceder al proyecto a través del archivo "Formulario ColaPrioridad- Acceso directo"
+
