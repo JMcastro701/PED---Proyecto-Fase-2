@@ -1,0 +1,98 @@
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.exe.config
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.exe
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.pdb
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Properties.Resources.resources
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.GenerateResource.cache
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.exe
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.pdb
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmArbol.resources
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmMenuP.resources
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.CopyComplete
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.FrmPaciente.resources
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmColaP.resources
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmHistorialesM.resources
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmUusarios.resources
+C:\Users\WINDOWS\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.IniciodeSesion.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.AssemblyReference.cache
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmArbol.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmColaP.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmColaReporte.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmHistorialesAgregar.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmHistorialesM.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmMenuP.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.FrmPaciente.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmUusarios.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.IniciodeSesion.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Properties.Resources.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.GenerateResource.cache
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.exe
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.pdb
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.exe.config
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.exe
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.pdb
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\ver 3\Proyecto de Catedra PED Grupo 3\Proyecto de Cátedra PED\obj\Debug\Proyecto.27A7E2CA.Up2Date
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.exe.config
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.exe
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.pdb
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.AssemblyReference.cache
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmArbol.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmColaP.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmColaReporte.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmHistorialesAgregar.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmHistorialesM.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmMenuP.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.FrmPaciente.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmUusarios.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.IniciodeSesion.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Properties.Resources.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.GenerateResource.cache
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto.27A7E2CA.Up2Date
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.exe
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Versiones\prueba FInal\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.pdb
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.exe.config
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.exe
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.pdb
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.AssemblyReference.cache
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmArbol.resources
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmColaP.resources
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmColaReporte.resources
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmHistorialesAgregar.resources
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmHistorialesM.resources
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmMenuP.resources
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.FrmPaciente.resources
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmUusarios.resources
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.IniciodeSesion.resources
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Properties.Resources.resources
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.GenerateResource.cache
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.CoreCompileInputs.cache
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto.27A7E2CA.Up2Date
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.exe
+C:\Users\Hayzel González\Downloads\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.pdb
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.exe.config
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.exe
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\bin\Debug\Proyecto de Cátedra PED.pdb
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.AssemblyReference.cache
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmArbol.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmColaP.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmColaReporte.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmHistorialesAgregar.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmHistorialesM.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmMenuP.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.FrmPaciente.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.FrmUusarios.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Formularios.IniciodeSesion.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto_de_Cátedra_PED.Properties.Resources.resources
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.GenerateResource.cache
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto.27A7E2CA.Up2Date
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.exe
+C:\Users\Tomas Chicas\Documents\PED_M\Proyecto\Pruebas\Proyecto de Cátedra PED\obj\Debug\Proyecto de Cátedra PED.pdb

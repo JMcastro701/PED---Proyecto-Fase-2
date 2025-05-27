@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5F250D44-C591-4CAF-A14C-776F84664EA8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto_de_Cátedra_PED</RootNamespace>
+    <AssemblyName>Proyecto de Cátedra PED</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.6.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>packages\FontAwesome.Sharp.6.6.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Clases Arbol\ArbolEspecialidades.cs" />
+    <Compile Include="Clases\Clases Arbol\NodoEspecialidad.cs" />
+    <Compile Include="Clases\Clases Cola\ColaPrioridad.cs" />
+    <Compile Include="Clases\Clases Cola\NodoCola.cs" />
+    <Compile Include="Clases\Clases Lista\ListaEnlazadaPacientes.cs" />
+    <Compile Include="Clases\Clases Lista\ListaEnlazadaReportes.cs" />
+    <Compile Include="Clases\Clases Lista\NodoPaciente.cs" />
+    <Compile Include="Clases\Clases Lista\NodoReporte.cs" />
+    <Compile Include="Clases\Clases Lista\Reporte.cs" />
+    <Compile Include="Clases\Clases Lista\Paciente.cs" />
+    <Compile Include="Clases\Usuarios.cs" />
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Formularios\FrmArbol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmArbol.Designer.cs">
+      <DependentUpon>FrmArbol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmColaP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmColaP.Designer.cs">
+      <DependentUpon>FrmColaP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmColaReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmColaReporte.Designer.cs">
+      <DependentUpon>FrmColaReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmHistorialesAgregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmHistorialesAgregar.Designer.cs">
+      <DependentUpon>FrmHistorialesAgregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmHistorialesM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmHistorialesM.Designer.cs">
+      <DependentUpon>FrmHistorialesM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmMenuP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmMenuP.Designer.cs">
+      <DependentUpon>FrmMenuP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmPaciente.Designer.cs">
+      <DependentUpon>FrmPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmUusarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmUusarios.Designer.cs">
+      <DependentUpon>FrmUusarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\IniciodeSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\IniciodeSesion.Designer.cs">
+      <DependentUpon>IniciodeSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManejoBD\ConexionBD.cs" />
+    <Compile Include="ManejoBD\PacientesDAO.cs" />
+    <Compile Include="ManejoBD\PersonalMedicoDAO.cs" />
+    <Compile Include="ManejoBD\ReportesDAO.cs" />
+    <Compile Include="ManejoBD\TurnosDAO.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios\FrmArbol.resx">
+      <DependentUpon>FrmArbol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmColaP.resx">
+      <DependentUpon>FrmColaP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmColaReporte.resx">
+      <DependentUpon>FrmColaReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmHistorialesAgregar.resx">
+      <DependentUpon>FrmHistorialesAgregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmHistorialesM.resx">
+      <DependentUpon>FrmHistorialesM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmMenuP.resx">
+      <DependentUpon>FrmMenuP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmPaciente.resx">
+      <DependentUpon>FrmPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmUusarios.resx">
+      <DependentUpon>FrmUusarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\IniciodeSesion.resx">
+      <DependentUpon>IniciodeSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT_Image_26_abr_2025__18_03_14-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagen_2025-04-30_215100800-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagen_2025-04-30_215440392-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagen_2025-04-30_215842663-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagen_2025-04-30_215711263-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconPaciente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-avatar-icon-profile-icon-member-login-vector-isolated-png-image_1978396-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-avatar-icon-profile-icon-member-login-vector-isolated-png-image_1978396-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconodoc.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
